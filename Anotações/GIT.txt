@@ -1,0 +1,32 @@
+>Git
+Comandos básicos
+dir - lista os diretórios
+cd - navega entre os diretórios
+cd / - navega pra pasta anterior
+cd .. - volta pro último diretório
+cls (CTRL+L) - clear screen 
+TAB (teclado) - autocompletar
+mkdir- (make direct) criar pasta
+echo - saída de texto na tela
+echo nome > arquivo - cria o texto num tipo de arquivo específico ex: echo hello > hello.txt
+del - deleta arquivos, mas não diretórios
+rmdir - (remove directory) /S /Q (flags)
+ls - list 
+ls -a listar pastas ocultas
+
+----------------------------
+
+- git init > iniciar repositório git
+- git add > mover arquivos/ versionamento
+- git commit > criar commit 
+
+git add nomearquivo
+git add * (todas modificações)
+git add .
+
+git commit -m "mensagem"
+
+git push origin master
+
+git remote -v >mostrar repositórios remotos apontados
+
