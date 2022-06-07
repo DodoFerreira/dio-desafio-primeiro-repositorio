@@ -1,0 +1,91 @@
+		VISUALG
+
+	tipos de dados 
+inteiro -  números inteiros
+real - números positivos, negativos e fracionários
+caracter - texto, números e caracteres especiais ("")
+logico - booleano, true ou false 
+
+	declaração de variável 
+nome:tipodedado
+
+	atribuição de variavel
+variavel<-atribuição
+
+	entrada de dados
+leia(variavel)
+
+	saida de dados
+escreva("texto visivel"variavel)
+escrevaL - pula linha
+
+	operadores aritméticos
+adição +
+subtração -
+multiplicação *
+divisão /
+módulo (restante da divisão inteira) MOD ou %
+potência ^
+
+	operadores relacionais
+igual a = 
+diferente <>
+maior que >
+menor que <
+maior ou igual a >=
+menor ou igual a <=
+
+	desvio condicional
+se (variavel e operação) então
+// saida de dados 
+senao 
+	se (variavel e operação) então
+	senao (variavel e operação)
+	//saida de dados 
+	fimse
+fimse
+
+	Operadores lógicos
+E - dois ou mais ralacionamentos verdadeiros
+Ou - pelo menos um relacionamento verdadeiro
+Nao - inverte o estado lógico 
+
+	Seleção Múltipla
+escolha variavel
+caso condição
+escreval ("condição verdadeira")
+caso condição
+escreval ("condição verdadeira")
+outrocaso 	
+escreval ("qualquer coisa que não são as condições")
+fimescolha	
+
+	Estrutura de repetição
+ParaFaça
+para variavel de 1 ate 10 faca //passo - pula de tantos em tantos
+escreval (variavel)
+fimpara
+
+EnquantoFaça 
+enquanto calculo faca
+escreval (variavel)
+fimenquanto
+
+Repita
+escreval (variavel)
+calculo
+ate 
+
+	Vetores
+Vetor - variável composta homogênea unidimensional
+variavel:vetor[1..5] de inteiro // [de .. até] de tipo de dado
+
+	Matrizes
+Matriz - variável composta homogênea multidimensional
+São referenciadas através de suas dimensões (quantidade de linhas e colunas)
+A notação comum é: MxN, onde
+M é a dimensão vertical (quantidade de linhas)
+N é a dimensão horizontal (quantidade de colunas)
+matriz: vetor[1..3, 1..2] de inteiro
+
+	Procedimentos e funções

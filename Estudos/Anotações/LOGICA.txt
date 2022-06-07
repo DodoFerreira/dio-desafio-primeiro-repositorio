@@ -1,0 +1,64 @@
+Lógica é organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implatação de um programa 
+
+Técnica linear
+execução sequenciada
+recursos limitados
+única dimensão 
+
+Técnica estruturada
+organização, disposição e ordem dos elementos essenciais 
+
+Técnica modular
+Partes independentes controladas por um conjunto de regras
+
+----------------------------
+Linguagem de programação
+
+tradução (compilação)
+Execução mais rápida
+Gera o programa objeto
+executa o programa objeto
+-programas menores-
+
+Interpretação
+Execuçõ diretamente da fonte
+Maior flexibilidade
+
+Características de desenvolvimento de programas
+-legibilidade
+-redigibilidade
+-confiabilidade
+-custo
+
+Analise de códigos
+Lexica>syntaxic>semantica 
+
+Lexica (scaner)
+Particionar>classificar>eliminar
+
+Sintática (forma)
+Estrutura de codificação
+Corretude do programa
+
+Semantica (significado)
+Lógica do programa
+
+-----
+Paradigmas
+Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando a linguagem de programação
+
+Paradigma estruturado
+>Sequencial 
+Problemas simples e direto
+Aprender programação
+
+>Orientação à objeto
+Utiliza objetos e suas interações (análogo ao mundo real)
+Objeto é descrito por características específicas, comportamentos e estado
+O que tenho - Sou capaz de fazer - Como faço
+(atributos - métodos - estados)
+-Pilares de orientação a objeto
+herança - classe filha herda características da classe mãe
+encapsulamento
+polimorfismo
+abstração
